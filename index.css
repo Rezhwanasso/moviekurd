@@ -1,0 +1,87 @@
+
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+
+
+.nusen h1{
+    text-align: center;
+    background: #2b7a78;
+    font-style: italic; 
+    padding: 15px;
+    width: 66px;    
+    color: azure;
+}
+
+.navbar ul{
+    text-align: center;
+    list-style-type: none;
+    background-color: #ff9d00;
+    padding: 30px;
+    overflow: hidden;
+}
+
+.navbar a{
+
+    color: azure;
+    text-decoration: none;
+    padding: 10px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+background-color: rgb(0, 0, 0);
+
+   
+}
+
+p{
+    text-align: center;
+    color: azure;
+}
+
+p:hover{
+background-color: brown;
+
+}
+
+.navbar li{
+ float: left;
+ text-align: center;
+}
+
+
+
+.vi video{
+    text-align: center;
+    padding-left: 186px;
+}
+
+
+.tabel{
+
+text-align: center;
+
+background-color: darkolivegreen;
+}
+
+.tabel th{
+    color: darkorange;
+    width: 597px;
+}
+
+.tabel tr{
+    color: rgb(0, 0, 0);
+}
+
+h1{
+    color: azure;
+    text-align: center;
+}
+
+
+
+footer{
+    color: beige;
+}
